@@ -11,3 +11,5 @@ this is line 5
 this is line 6
 
 This is line 7
+
+This line added in feature 1
