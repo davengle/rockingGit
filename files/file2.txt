@@ -5,3 +5,5 @@ this is a new line in file 2
 this line is added in main
 
 this is a remote change
+
+remote change for file 2
