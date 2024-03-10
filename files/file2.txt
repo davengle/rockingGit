@@ -1,2 +1,4 @@
+Local change before existing line
+
 Merge failed.  Captured all of remote changes then all of local changes instead of just a line from each
 
