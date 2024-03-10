@@ -1,20 +1,2 @@
-This is file 2
+Merge failed.  Captured all of remote changes then all of local changes instead of just a line from each
 
-this is a new line in file 2
-
-this line is added in main
-
-this is a remote change
-
-remote change for file 2
-
-This is file 2
-
-this is a new line in file 2
-
-this line is added in main
-
-this is a remote change
-
-
-local change for file 2
